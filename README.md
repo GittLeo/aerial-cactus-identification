@@ -1,2 +1,4 @@
 # aerial-cactus-identification
 aerial-cactus-identification
+把图片集转化为了数组，但数组文件超过25M，github不让上传
+于是分成train_picture1.npy和train_picture2.npy两个文件
